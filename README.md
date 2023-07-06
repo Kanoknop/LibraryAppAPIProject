@@ -20,5 +20,5 @@ For building and running the application you need:
   1) book_information
   2) student_information
   3) borrow_list
-  All of the tables can add, update, delete, and get lists and are also related to each other
+- All of the tables can add, update, delete, and get lists and are also related to each other
 - borrow_list will get some information from the book and student table e.g. name
